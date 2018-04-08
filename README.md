@@ -1,4 +1,4 @@
-# README #
+# C shell #
 ### What is this repository for? ###
 
 Basic, **really basic** Shell implementation by C <br>
